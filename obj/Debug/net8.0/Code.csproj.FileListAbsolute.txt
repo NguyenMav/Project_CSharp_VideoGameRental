@@ -1,0 +1,14 @@
+C:\Users\zungn\OneDrive - Deakin University\Master_of_Data_Science\SIT771_Object_Oriented_Programming\Week 7\Task 7.4HD Something Awesome\Code\bin\Debug\net8.0\Code.exe
+C:\Users\zungn\OneDrive - Deakin University\Master_of_Data_Science\SIT771_Object_Oriented_Programming\Week 7\Task 7.4HD Something Awesome\Code\bin\Debug\net8.0\Code.deps.json
+C:\Users\zungn\OneDrive - Deakin University\Master_of_Data_Science\SIT771_Object_Oriented_Programming\Week 7\Task 7.4HD Something Awesome\Code\bin\Debug\net8.0\Code.runtimeconfig.json
+C:\Users\zungn\OneDrive - Deakin University\Master_of_Data_Science\SIT771_Object_Oriented_Programming\Week 7\Task 7.4HD Something Awesome\Code\bin\Debug\net8.0\Code.dll
+C:\Users\zungn\OneDrive - Deakin University\Master_of_Data_Science\SIT771_Object_Oriented_Programming\Week 7\Task 7.4HD Something Awesome\Code\bin\Debug\net8.0\Code.pdb
+C:\Users\zungn\OneDrive - Deakin University\Master_of_Data_Science\SIT771_Object_Oriented_Programming\Week 7\Task 7.4HD Something Awesome\Code\obj\Debug\net8.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zungn\OneDrive - Deakin University\Master_of_Data_Science\SIT771_Object_Oriented_Programming\Week 7\Task 7.4HD Something Awesome\Code\obj\Debug\net8.0\Code.AssemblyInfoInputs.cache
+C:\Users\zungn\OneDrive - Deakin University\Master_of_Data_Science\SIT771_Object_Oriented_Programming\Week 7\Task 7.4HD Something Awesome\Code\obj\Debug\net8.0\Code.AssemblyInfo.cs
+C:\Users\zungn\OneDrive - Deakin University\Master_of_Data_Science\SIT771_Object_Oriented_Programming\Week 7\Task 7.4HD Something Awesome\Code\obj\Debug\net8.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\zungn\OneDrive - Deakin University\Master_of_Data_Science\SIT771_Object_Oriented_Programming\Week 7\Task 7.4HD Something Awesome\Code\obj\Debug\net8.0\Code.dll
+C:\Users\zungn\OneDrive - Deakin University\Master_of_Data_Science\SIT771_Object_Oriented_Programming\Week 7\Task 7.4HD Something Awesome\Code\obj\Debug\net8.0\refint\Code.dll
+C:\Users\zungn\OneDrive - Deakin University\Master_of_Data_Science\SIT771_Object_Oriented_Programming\Week 7\Task 7.4HD Something Awesome\Code\obj\Debug\net8.0\Code.pdb
+C:\Users\zungn\OneDrive - Deakin University\Master_of_Data_Science\SIT771_Object_Oriented_Programming\Week 7\Task 7.4HD Something Awesome\Code\obj\Debug\net8.0\Code.genruntimeconfig.cache
+C:\Users\zungn\OneDrive - Deakin University\Master_of_Data_Science\SIT771_Object_Oriented_Programming\Week 7\Task 7.4HD Something Awesome\Code\obj\Debug\net8.0\ref\Code.dll
